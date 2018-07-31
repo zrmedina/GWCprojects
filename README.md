@@ -4,4 +4,4 @@
 **Zoe Medina**
 
 ### Location
-Blizzard [Girls Who Code]("https://www.zrmedina.github.io")
+Blizzard [Girls Who Code]("https://zrmedina.github.io/")
